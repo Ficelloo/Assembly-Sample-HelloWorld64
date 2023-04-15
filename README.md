@@ -6,15 +6,13 @@ Sample assembly program to write "Hello World!" in GNU/Linux console (working on
 - ld
 
 ## How to run it?
-```bash
-nasm -f elf64 main.asm -o main.o```
+
+`nasm -f elf64 main.asm -o main.o`
 
 After getting the object file you'll need to link it with a linker (LD for our example)
 
-```bash
-ld main.o -o main```
+`ld main.o -o main`
 
 And now you can run it by doing:
 
-```bash
-./main```
+`./main`
