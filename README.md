@@ -16,3 +16,7 @@ After getting the object file you'll need to link it with a linker (LD for our e
 And now you can run it by doing:
 
 `./main`
+
+Note: You'll probably need to set write permission to execute file
+
+`chmod +x main`
