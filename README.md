@@ -17,6 +17,6 @@ And now you can run it by doing:
 
 `./main`
 
-Note: You'll probably need to set write permission to execute file
+Note: You'll probably need to set 'execute' permission to run this file
 
 `chmod +x main`
